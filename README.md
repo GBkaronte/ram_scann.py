@@ -1,6 +1,6 @@
 # ram_scann.py
 
-pen source hecho en python3 con la libreria psutil
+Open source hecho en python3 con la libreria psutil
 
 //Debes descargar en tu pc "psutil"
 
